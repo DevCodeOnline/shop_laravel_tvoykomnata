@@ -1,0 +1,25 @@
+Product
+    - id
+    - title (string)
+    - slug (string)
+    - description (text)
+    - quantity (int)
+    - price (float)
+    - image
+    - popular (boolean)
+    - meta-title (string)
+    - meta-desc (string)
+    - meta-keywords (string)
+
+Category
+    - id
+    - title
+    - slug
+    - image
+    - parent
+    - popular
+
+Brand
+    - id
+    - title
+    - image
